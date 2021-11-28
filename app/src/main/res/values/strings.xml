@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">exercise_4</string>
+    <string name="textView_1">მოგესალმებით გთხოვთ შეიყვანოთ მონაცემები</string>
+    <string name="edittext1">მოგესალმებით, გთხოვთ შეიყვანოთ თქვენი მონაცემები</string>
+    <string name="username">username</string>
+    <string name="log_in">log in</string>
+    <string name="password">password</string>
+    <string name="e_mail">e-mail</string>
+    <string name="meet">26.11/19:00 - შეხვედრა მეგობრებთან.</string>
+    <string name="calculus">27.11/11:00 - კალკულუსის ლექცია.</string>
+    <string name="doctor">30.11/13:00 - ვიზიტი ექიმთან.</string>
+    <string name="lana_s_notes">lana\'s notes</string>
+    <string name="first">2. top to write</string>
+    <string name="second">3. top to write</string>
+    <string name="third">3. top to write</string>
+    <string name="first_1">1. top to write</string>
+    <string name="second_2">2. top to write</string>
+    <string name="click1">1. click to write</string>
+    <string name="click2">2. click to write</string>
+    <string name="click3">3. click to write</string>
+    <string name="plus">+</string>
+    <string name="userName">User Name: Lanna 23</string>
+    <string name="name">Name: Lana</string>
+    <string name="lastName">Last Name: Sakhelashvili</string>
+    <string name="email">E-mail: lana.sakhelashvili.1@btu.edu.ge</string>
+    <string name="send">send</string>
+    <string name="user_name">User Name</string>
+    <string name="text">Write text here</string>
+    <string name="nameuser">User Name</string>
+</resources>
